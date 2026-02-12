@@ -1,5 +1,8 @@
 # Olist E-Commerce Sales Analysis | Power BI
 
+## Project Link
+https://drive.google.com/file/d/1a-yaGDjAvLjg-yzcT-eVLR2_tCqDbiya/view?usp=drive_link
+
 This project is an end-to-end **Business Intelligence analysis** built using the **Brazilian E-Commerce Public Dataset (Olist)**.  
 The goal is to transform raw transactional data into **clear, actionable insights** using Power BI.
 
